@@ -4,3 +4,9 @@ function greet(name) {
   
   console.log(greet("Alice")); // פלט: Hello, Alice!
   console.log(greet("Bob")); // פלט: Hello, Bob!
+  console.log(greet("Alice")); // פלט: Hello, Alice!
+  console.log(greet("Bob")); // פלט: Hello, Bob!
+  console.log(greet("Alice")); // פלט: Hello, Alice!
+  console.log(greet("Bob")); // פלט: Hello, Bob!
+  console.log(greet("Alice")); // פלט: Hello, Alice!
+  console.log(greet("Bob")); // פלט: Hello, Bob!
